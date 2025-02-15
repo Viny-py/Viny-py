@@ -1,13 +1,14 @@
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=90B302center=true&vCenter=true&width=435&lines=I'm+Viny!;How+are+you+doing?" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=3900&size=40&duration=2500&pause=500&color=FF0000center=true&vCenter=true&width=200&lines=I'm+Viny" alt="Typing SVG" />
   </a>
 </div>
 
+<p align="center" style="strong">
+CS student that aspires to be an app developer!
+</p>
 
-Hey, I'm Viny, and I'm a CS student that aspires to be an app developer!
-
-<p align="left">
+<p align="center">
     <a href="https://github.com/Viny-py?tab=repositories&sort=stargazers">
         <img 
             alt="Stars Total" 
@@ -115,7 +116,7 @@ Hey, I'm Viny, and I'm a CS student that aspires to be an app developer!
     alt="GitHub Stats" 
     height="175" 
     style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Viny-py&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Viny-py&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 <img 
@@ -123,7 +124,7 @@ Hey, I'm Viny, and I'm a CS student that aspires to be an app developer!
       alt="GitHub Stats" 
       height="175"
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viny-py&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viny-py&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
