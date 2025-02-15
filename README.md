@@ -8,14 +8,6 @@
 Hey, I'm Viny, and I'm a CS student that aspires to be an app developer!
 
 <p align="left">
-        <a href="https://www.instagram.com/viny.py/">
-      <img 
-          width="30px" :
-          alt="Instagram" 
-          title="Follow my Insta" 
-          src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png"
-      />
-      </a>
     <a href="https://github.com/Viny-py?tab=repositories&sort=stargazers">
         <img 
             alt="Stars Total" 
@@ -30,6 +22,13 @@ Hey, I'm Viny, and I'm a CS student that aspires to be an app developer!
             src="https://custom-icon-badges.demolab.com/github/followers/Viny-py?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+      <a href="https://www.instagram.com/viny.py/">
+      <img 
+          alt="Instagram" 
+          title="Follow my Insta" 
+          src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
+      />
+      </a>
 </p>
 
 ---
@@ -114,7 +113,7 @@ Hey, I'm Viny, and I'm a CS student that aspires to be an app developer!
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="175" 
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=Viny-py&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -122,7 +121,7 @@ Hey, I'm Viny, and I'm a CS student that aspires to be an app developer!
 <img 
       align="center" 
       alt="GitHub Stats" 
-      height="200"
+      height="175"
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viny-py&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
