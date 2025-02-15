@@ -5,20 +5,28 @@
 </div>
 
 
-Me chamo Viny
+Hey, I'm Viny, and I'm a CS student that aspires to be an app developer!
 
 <p align="left">
+        <a href="https://www.instagram.com/viny.py/">
+      <img 
+          width="30px" :
+          alt="Instagram" 
+          title="Follow my Insta" 
+          src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png"
+      />
+      </a>
     <a href="https://github.com/Viny-py?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Stars Total" 
+            title="Github total of stars" 
             src="https://custom-icon-badges.demolab.com/github/stars/Viny-py?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Viny-py?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Viny-py?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -26,7 +34,7 @@ Me chamo Viny
 
 ---
 
-### 🤖 Languages
+### 🤖 Languages and Tech
 
 <img 
     align="left" 
@@ -71,7 +79,6 @@ Me chamo Viny
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="React" 
@@ -80,9 +87,8 @@ Me chamo Viny
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <br/>
-
+<br/>
 <img 
     align="left" 
     alt="Git" 
@@ -109,14 +115,15 @@ Me chamo Viny
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=Viny-py&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viny-py&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
